@@ -39,12 +39,12 @@ $lng['panel']['dirsmissing'] = 'Не могу найти или прочитат
  * Login
  */
 
-$lng['login']['username'] = 'Username';
-$lng['login']['password'] = 'Password';
-$lng['login']['language'] = 'Language';
-$lng['login']['login'] = 'Login';
-$lng['login']['logout'] = 'Logout';
-$lng['login']['profile_lng'] = 'Profile language';
+$lng['login']['username'] = 'Имя пользователя';
+$lng['login']['password'] = 'Пароль';
+$lng['login']['language'] = 'Язык';
+$lng['login']['login'] = 'Вход';
+$lng['login']['logout'] = 'Выход';
+$lng['login']['profile_lng'] = 'Язык профиля';
 
 /**
  * Customer
