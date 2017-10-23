@@ -77,23 +77,23 @@ $lng['customer']['mib'] = 'MiB';
  * Customermenue
  */
 
-$lng['menue']['main']['main'] = 'Main';
-$lng['menue']['main']['changepassword'] = 'Change password';
-$lng['menue']['main']['changelanguage'] = 'Change language';
+$lng['menue']['main']['main'] = 'Главная';
+$lng['menue']['main']['changepassword'] = 'Сменить пароль';
+$lng['menue']['main']['changelanguage'] = 'Сменить язык';
 $lng['menue']['email']['email'] = 'Email';
-$lng['menue']['email']['emails'] = 'Addresses';
+$lng['menue']['email']['emails'] = 'Адреса';
 $lng['menue']['email']['webmail'] = 'Webmail';
 $lng['menue']['mysql']['mysql'] = 'MySQL';
-$lng['menue']['mysql']['databases'] = 'Databases';
+$lng['menue']['mysql']['databases'] = 'Базы Данных';
 $lng['menue']['mysql']['phpmyadmin'] = 'phpMyAdmin';
-$lng['menue']['domains']['domains'] = 'Domains';
-$lng['menue']['domains']['settings'] = 'Settings';
+$lng['menue']['domains']['domains'] = 'Домены';
+$lng['menue']['domains']['settings'] = 'Настройки';
 $lng['menue']['ftp']['ftp'] = 'FTP';
-$lng['menue']['ftp']['accounts'] = 'Accounts';
+$lng['menue']['ftp']['accounts'] = 'Аккаунты';
 $lng['menue']['ftp']['webftp'] = 'WebFTP';
-$lng['menue']['extras']['extras'] = 'Extras';
-$lng['menue']['extras']['directoryprotection'] = 'Directory protection';
-$lng['menue']['extras']['pathoptions'] = 'Path options';
+$lng['menue']['extras']['extras'] = 'Доп. Настройки';
+$lng['menue']['extras']['directoryprotection'] = 'Защита каталогов';
+$lng['menue']['extras']['pathoptions'] = 'Параметры пути';
 
 /**
  * Index
