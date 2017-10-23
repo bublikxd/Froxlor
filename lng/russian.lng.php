@@ -154,9 +154,9 @@ $lng['ftp']['account_add'] = 'Создать учетную запись';
  * MySQL
  */
 
-$lng['mysql']['databasename'] = 'User/Database name';
-$lng['mysql']['databasedescription'] = 'Database description';
-$lng['mysql']['database_create'] = 'Create database';
+$lng['mysql']['databasename'] = 'Имя пользователя/базы данных';
+$lng['mysql']['databasedescription'] = 'Описание базы данных';
+$lng['mysql']['database_create'] = 'Создать базу данных';
 
 /**
  * Extras
