@@ -106,11 +106,11 @@ $lng['index']['accountdetails'] = 'Детали учетной записи';
  * Change Password
  */
 
-$lng['changepassword']['old_password'] = 'Old password';
-$lng['changepassword']['new_password'] = 'New password';
-$lng['changepassword']['new_password_confirm'] = 'Confirm password';
-$lng['changepassword']['new_password_ifnotempty'] = 'New password (empty = no change)';
-$lng['changepassword']['also_change_ftp'] = ' also change password of the main FTP account';
+$lng['changepassword']['old_password'] = 'Старый пароль';
+$lng['changepassword']['new_password'] = 'Новый пароль';
+$lng['changepassword']['new_password_confirm'] = 'Подтвердите Пароль';
+$lng['changepassword']['new_password_ifnotempty'] = 'Новый пароль (пусто = без изменений)';
+$lng['changepassword']['also_change_ftp'] = ' также изменить пароль для основной учетной записи FTP';
 
 /**
  * Domains
