@@ -22,18 +22,18 @@
  */
 
 $lng['translator'] = '';
-$lng['panel']['edit'] = 'Edit';
-$lng['panel']['delete'] = 'Delete';
-$lng['panel']['create'] = 'Create';
-$lng['panel']['save'] = 'Save';
-$lng['panel']['yes'] = 'Yes';
-$lng['panel']['no'] = 'No';
-$lng['panel']['emptyfornochanges'] = 'empty for no changes';
-$lng['panel']['emptyfordefault'] = 'empty for defaults';
-$lng['panel']['path'] = 'Path';
-$lng['panel']['toggle'] = 'Toggle';
-$lng['panel']['next'] = 'Next';
-$lng['panel']['dirsmissing'] = 'Can not find or read the directory!';
+$lng['panel']['edit'] = 'Редактировать';
+$lng['panel']['delete'] = 'Удалить';
+$lng['panel']['create'] = 'Создать';
+$lng['panel']['save'] = 'Сохранить';
+$lng['panel']['yes'] = 'Да';
+$lng['panel']['no'] = 'Нет';
+$lng['panel']['emptyfornochanges'] = 'пусто без изменений';
+$lng['panel']['emptyfordefault'] = 'пусто по умолчанию';
+$lng['panel']['path'] = 'Путь';
+$lng['panel']['toggle'] = 'Переключить';
+$lng['panel']['next'] = 'Следующий';
+$lng['panel']['dirsmissing'] = 'Не могу найти или прочитать каталог!';
 
 /**
  * Login
