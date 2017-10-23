@@ -99,8 +99,8 @@ $lng['menue']['extras']['pathoptions'] = 'Параметры пути';
  * Index
  */
 
-$lng['index']['customerdetails'] = 'Customer details';
-$lng['index']['accountdetails'] = 'Account details';
+$lng['index']['customerdetails'] = 'Информация о клиенте';
+$lng['index']['accountdetails'] = 'Детали учетной записи';
 
 /**
  * Change Password
