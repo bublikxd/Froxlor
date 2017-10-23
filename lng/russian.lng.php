@@ -147,8 +147,8 @@ $lng['emails']['forwarder_add'] = 'Создать переадресатора';
  * FTP
  */
 
-$lng['ftp']['description'] = 'Here you can create and change your FTP-accounts.<br />The changes are made instantly and the accounts can be used immediately.';
-$lng['ftp']['account_add'] = 'Create account';
+$lng['ftp']['description'] = 'Здесь вы можете создавать и изменять свои учетные записи FTP.<br />Изменения происходят мнгновенно и учетные записи могут буть использованы немедленно.';
+$lng['ftp']['account_add'] = 'Создать учетную запись';
 
 /**
  * MySQL
