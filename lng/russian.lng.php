@@ -116,14 +116,14 @@ $lng['changepassword']['also_change_ftp'] = ' также изменить пар
  * Domains
  */
 
-$lng['domains']['description'] = 'Here you can create (sub-)domains and change their paths.<br />The system will need some time to apply the new settings after every change.';
-$lng['domains']['domainsettings'] = 'Domain settings';
-$lng['domains']['domainname'] = 'Domain name';
-$lng['domains']['subdomain_add'] = 'Create subdomain';
-$lng['domains']['subdomain_edit'] = 'Edit (sub)domain';
+$lng['domains']['description'] = 'Здесь вы можете создавать (под-)домены и изменять их пути.<br />Системе потребуется некоторое время, чтобы применить новые настройки после каждого изменения.';
+$lng['domains']['domainsettings'] = 'Настройки домена';
+$lng['domains']['domainname'] = 'Доменное имя';
+$lng['domains']['subdomain_add'] = 'Создать поддомен';
+$lng['domains']['subdomain_edit'] = 'Редактировать (под)домен';
 $lng['domains']['wildcarddomain'] = 'Create as wildcarddomain?';
-$lng['domains']['aliasdomain'] = 'Alias for domain';
-$lng['domains']['noaliasdomain'] = 'No alias domain';
+$lng['domains']['aliasdomain'] = 'Alias для домена';
+$lng['domains']['noaliasdomain'] = 'Не alias домен';
 
 /**
  * E-mails
