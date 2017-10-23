@@ -129,19 +129,19 @@ $lng['domains']['noaliasdomain'] = 'Не alias домен';
  * E-mails
  */
 
-$lng['emails']['description'] = 'Here you can create and change your email addresses.<br />An account is like your letterbox in front of your house. If someone sends you an email, it will be dropped into the account.<br /><br />To download your emails use the following settings in your mailprogram: (The data in <i>italics</i> has to be changed to the equivalents you typed in!)<br />Hostname: <b><i>domainname</i></b><br />Username: <b><i>account name / e-mail address</i></b><br />password: <b><i>the password you\'ve chosen</i></b>';
-$lng['emails']['emailaddress'] = 'Email-address';
-$lng['emails']['emails_add'] = 'Create email-address';
-$lng['emails']['emails_edit'] = 'Edit email-address';
-$lng['emails']['catchall'] = 'Catchall';
-$lng['emails']['iscatchall'] = 'Define as catchall-address?';
-$lng['emails']['account'] = 'Account';
-$lng['emails']['account_add'] = 'Create account';
-$lng['emails']['account_delete'] = 'Delete account';
-$lng['emails']['from'] = 'Source';
-$lng['emails']['to'] = 'Destination';
-$lng['emails']['forwarders'] = 'Forwarders';
-$lng['emails']['forwarder_add'] = 'Create forwarder';
+$lng['emails']['description'] = 'Здесь вы можете создавать и изменять свои адреса элеткроной почты.<br />Учетная запись это что-то вроде почтового ящика перед вашим домом. Если кто-то отправит вам электронное письмо, оно будет занесено в учетную запись.<br /><br />Для загрузки электронной почты используйте следующие настройки в вашей почтовой программе: (Замените <i>курсивные</i> данные на те, которые вы ввели!)<br />Имя хоста: <b><i>Имя домена</i></b><br />Имя пользователя: <b><i>имя учетной записи / e-mail адрес</i></b><br />пароль: <b><i>ваш пароль</i></b>';
+$lng['emails']['emailaddress'] = 'Email-Адрес';
+$lng['emails']['emails_add'] = 'Создать Email-Адрес';
+$lng['emails']['emails_edit'] = 'Редактировать Email-Адрес';
+$lng['emails']['catchall'] = 'Общий';
+$lng['emails']['iscatchall'] = 'Определить как общий адрес?';
+$lng['emails']['account'] = 'Учетная запись';
+$lng['emails']['account_add'] = 'Создать учетную запись';
+$lng['emails']['account_delete'] = 'Удалить учетную запись';
+$lng['emails']['from'] = 'Источник (от)';
+$lng['emails']['to'] = 'Назначение (к)';
+$lng['emails']['forwarders'] = 'Переадресаторы';
+$lng['emails']['forwarder_add'] = 'Создать переадресатора';
 
 /**
  * FTP
