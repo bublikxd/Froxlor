@@ -50,26 +50,26 @@ $lng['login']['profile_lng'] = 'Язык профиля';
  * Customer
  */
 
-$lng['customer']['documentroot'] = 'Home directory';
-$lng['customer']['name'] = 'Name';
-$lng['customer']['firstname'] = 'First name';
-$lng['customer']['company'] = 'Company';
-$lng['customer']['street'] = 'Street';
-$lng['customer']['zipcode'] = 'Zipcode';
-$lng['customer']['city'] = 'City';
-$lng['customer']['phone'] = 'Phone';
+$lng['customer']['documentroot'] = 'Домашний каталог';
+$lng['customer']['name'] = 'Фамилия';
+$lng['customer']['firstname'] = 'Имя';
+$lng['customer']['company'] = 'Фирма';
+$lng['customer']['street'] = 'Улица';
+$lng['customer']['zipcode'] = 'Индекс';
+$lng['customer']['city'] = 'Город';
+$lng['customer']['phone'] = 'Телефон';
 $lng['customer']['fax'] = 'Fax';
 $lng['customer']['email'] = 'Email';
-$lng['customer']['customernumber'] = 'Customer ID';
-$lng['customer']['diskspace'] = 'Webspace (MiB)';
-$lng['customer']['traffic'] = 'Traffic (GiB)';
-$lng['customer']['mysqls'] = 'MySQL-databases';
-$lng['customer']['emails'] = 'Email-addresses';
-$lng['customer']['accounts'] = 'Email-accounts';
-$lng['customer']['forwarders'] = 'Email-forwarders';
-$lng['customer']['ftps'] = 'FTP-accounts';
-$lng['customer']['subdomains'] = 'Subdomains';
-$lng['customer']['domains'] = 'Domains';
+$lng['customer']['customernumber'] = 'ID Клиента';
+$lng['customer']['diskspace'] = 'Место на диске (MiB)';
+$lng['customer']['traffic'] = 'Трафик (GiB)';
+$lng['customer']['mysqls'] = 'MySQL-Базы Данных';
+$lng['customer']['emails'] = 'Email-Адресов';
+$lng['customer']['accounts'] = 'Email-Аккаунтов';
+$lng['customer']['forwarders'] = 'Email-Переадресаторы';
+$lng['customer']['ftps'] = 'FTP-Аккаунты';
+$lng['customer']['subdomains'] = 'Поддомены';
+$lng['customer']['domains'] = 'Домены';
 $lng['customer']['unlimited'] = '∞';
 $lng['customer']['mib'] = 'MiB';
 
