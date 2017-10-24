@@ -234,24 +234,24 @@ $lng['error']['ticketnotaccessible'] = 'Вы не можете получить 
  * Questions
  */
 
-$lng['question']['question'] = 'Security question';
-$lng['question']['admin_customer_reallydelete'] = 'Do you really want to delete the customer %s? This cannot be undone!';
-$lng['question']['admin_domain_reallydelete'] = 'Do you really want to delete the domain %s?';
-$lng['question']['admin_domain_reallydisablesecuritysetting'] = 'Do you really want to disable this security setting OpenBasedir?';
-$lng['question']['admin_admin_reallydelete'] = 'Do you really want to delete the admin %s? Every customer and domain will be reassigned to your account.';
-$lng['question']['admin_template_reallydelete'] = 'Do you really want to delete the template \'%s\'?';
-$lng['question']['domains_reallydelete'] = 'Do you really want to delete the domain %s?';
-$lng['question']['email_reallydelete'] = 'Do you really want to delete the email-address %s?';
-$lng['question']['email_reallydelete_account'] = 'Do you really want to delete the email-account of %s?';
-$lng['question']['email_reallydelete_forwarder'] = 'Do you really want to delete the forwarder %s?';
-$lng['question']['extras_reallydelete'] = 'Do you really want to delete the directory protection for %s?';
-$lng['question']['extras_reallydelete_pathoptions'] = 'Do you really want to delete the path options for %s?';
-$lng['question']['ftp_reallydelete'] = 'Do you really want to delete the FTP-account %s?';
-$lng['question']['mysql_reallydelete'] = 'Do you really want to delete the database %s? This cannot be undone!';
-$lng['question']['admin_configs_reallyrebuild'] = 'Do you really want to rebuild all config files?';
-$lng['question']['admin_customer_alsoremovefiles'] = 'Remove user files too?';
-$lng['question']['admin_customer_alsoremovemail'] = 'Completely remove email data from filesystem?';
-$lng['question']['admin_customer_alsoremoveftphomedir'] = 'Also remove FTP-user homedir?';
+$lng['question']['question'] = 'Контрольный вопрос';
+$lng['question']['admin_customer_reallydelete'] = 'Вы действительно хотите удалить клиента %s? Это нельзя будет отменить!';
+$lng['question']['admin_domain_reallydelete'] = 'Вы действительно хотите удалить домен %s?';
+$lng['question']['admin_domain_reallydisablesecuritysetting'] = 'Вы действительно хотите отключить этот параметр безопасности OpenBasedir?';
+$lng['question']['admin_admin_reallydelete'] = 'Вы действительно хотите удалить администратора %s? Каждый клиент и домен будут переназначены на ваш аккаунт.';
+$lng['question']['admin_template_reallydelete'] = 'Вы действительно хотите удалить шаблон \'%s\'?';
+$lng['question']['domains_reallydelete'] = 'Вы действительно хотите удалить домен %s?';
+$lng['question']['email_reallydelete'] = 'Вы действительно хотите удалить почтовый адрес %s?';
+$lng['question']['email_reallydelete_account'] = 'Вы действительно хотите удалить почтовую учетную запись от %s?';
+$lng['question']['email_reallydelete_forwarder'] = 'Вы действительно хотите удалить переадресатор %s?';
+$lng['question']['extras_reallydelete'] = 'Вы действительно хотите удалить защита каталога для %s?';
+$lng['question']['extras_reallydelete_pathoptions'] = 'Вы действительно хотите удалить параметры пути для %s?';
+$lng['question']['ftp_reallydelete'] = 'Вы действительно хотите удалить учетную запись FTP %s?';
+$lng['question']['mysql_reallydelete'] = 'Вы действительно хотите удалить базу данных %s? Это нельзя будет отменить!';
+$lng['question']['admin_configs_reallyrebuild'] = 'Вы действительно хотите перестроить все файлы конфигурации?';
+$lng['question']['admin_customer_alsoremovefiles'] = 'Удалить файлы пользователя тоже?';
+$lng['question']['admin_customer_alsoremovemail'] = 'Полностью удалить данные электронной почты из файловой системы?';
+$lng['question']['admin_customer_alsoremoveftphomedir'] = 'Также удалите homedir FTP-пользователя?';
 
 /**
  * Mails
