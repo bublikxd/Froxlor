@@ -257,10 +257,10 @@ $lng['question']['admin_customer_alsoremoveftphomedir'] = 'Также удали
  * Mails
  */
 
-$lng['mails']['pop_success']['mailbody'] = 'Hello,\n\nyour mail account {EMAIL}\nwas set up successfully.\n\nThis is an automatically created\ne-mail, please do not answer!\n\nYours sincerely, your administrator';
-$lng['mails']['pop_success']['subject'] = 'Mail account set up successfully';
-$lng['mails']['createcustomer']['mailbody'] = 'Hello {FIRSTNAME} {NAME},\n\nhere is your account information:\n\nUsername: {USERNAME}\nPassword: {PASSWORD}\n\nThank you,\nyour administrator';
-$lng['mails']['createcustomer']['subject'] = 'Account information';
+$lng['mails']['pop_success']['mailbody'] = 'Привет,\n\nтвоя почтовая учетная запись {EMAIL}\nбыла успешно создана.\n\nЭто автоматически сгенерированный \ne-mail, пожалуйста не отвечайте!\n\nС Уважением, ваш Администратор.';
+$lng['mails']['pop_success']['subject'] = 'Учетная запись почты успешно создана';
+$lng['mails']['createcustomer']['mailbody'] = 'Привет {FIRSTNAME} {NAME},\n\nинформация о твоей учетной записи:\n\nИмя пользователя: {USERNAME}\nПароль: {PASSWORD}\n\nСпасибо,\nваш Администратор';
+$lng['mails']['createcustomer']['subject'] = 'Информация об учетной записи';
 
 /**
  * Admin
