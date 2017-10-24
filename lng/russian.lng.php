@@ -21,7 +21,7 @@
  * Global
  */
 
-$lng['translator'] = '';
+$lng['translator'] = 'Gregor Doroschenko';
 $lng['panel']['edit'] = 'Редактировать';
 $lng['panel']['delete'] = 'Удалить';
 $lng['panel']['create'] = 'Создать';
