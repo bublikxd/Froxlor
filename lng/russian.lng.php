@@ -162,20 +162,20 @@ $lng['mysql']['database_create'] = 'Создать базу данных';
  * Extras
  */
 
-$lng['extras']['description'] = 'Here you can add some extras, for example directory protection.<br />The system will need some time to apply the new settings after every change.';
-$lng['extras']['directoryprotection_add'] = 'Add directory protection';
-$lng['extras']['view_directory'] = 'Display directory content';
-$lng['extras']['pathoptions_add'] = 'Add path options';
-$lng['extras']['directory_browsing'] = 'Directory content browsing';
-$lng['extras']['pathoptions_edit'] = 'Edit path options';
+$lng['extras']['description'] = 'Здесь вы можете добавить некоторые дополнительные функции, например защиту каталога.<br />Системе потребуется некоторое время для применения новых настроек после каждого изменения.';
+$lng['extras']['directoryprotection_add'] = 'Добавить защиту каталога';
+$lng['extras']['view_directory'] = 'Отобразить содержание каталога';
+$lng['extras']['pathoptions_add'] = 'Добавить параметры пути';
+$lng['extras']['directory_browsing'] = 'Просмотр содержимого каталога';
+$lng['extras']['pathoptions_edit'] = 'Изменить параметры пути';
 $lng['extras']['error404path'] = '404';
 $lng['extras']['error403path'] = '403';
 $lng['extras']['error500path'] = '500';
 $lng['extras']['error401path'] = '401';
-$lng['extras']['errordocument404path'] = 'ErrorDocument 404';
-$lng['extras']['errordocument403path'] = 'ErrorDocument 403';
-$lng['extras']['errordocument500path'] = 'ErrorDocument 500';
-$lng['extras']['errordocument401path'] = 'ErrorDocument 401';
+$lng['extras']['errordocument404path'] = 'Документ ошибки 404';
+$lng['extras']['errordocument403path'] = 'Документ ошибки 403';
+$lng['extras']['errordocument500path'] = 'Документ ошибки 500';
+$lng['extras']['errordocument401path'] = 'Документ ошибки 401';
 
 /**
  * Errors
